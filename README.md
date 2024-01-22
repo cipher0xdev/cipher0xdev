@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cipher0xdev&color=red)
 
 <h4 align="center"><img height="300em" src="logo.png"/></h4>
-<h3 align="center">OSINT, Cyber security, Digital forensics, Malware analisys</h3>
+<h3 align="center">OSINT, Computer science, Cyber security, Digital forensics and Malware analisys</h3>
 <br>
 
 <h4 align="center">
