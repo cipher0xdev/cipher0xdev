@@ -19,4 +19,5 @@
 
 contact for development services: cipher.contact@proton.me
 <br>
-Monero donate:
+<br>
+<img src="" height="20px"> Monero donate: `83PS6EBVqQt1jJdxLDxuZkdCXCo2AjnVyTmKTQn723H8F44exFXKfRCMvuwti8ssdZE9TRoa8rzQ1X8SRBUNGENgQoDM96o`
