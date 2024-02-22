@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cipher0xdev&color=red)
 
 <div align="left">
-  <img align="left" height="200em" src="logo.png"/>
+  <img align="right" height="200em" src="logo.png"/>
   <h2 align="left">OSINT, Cyber sec, Forensics and Malware analisys</h2>
   Software and Game developer, Pentester, Malware analyst, Reverse engineering.
   <br>
@@ -12,6 +12,7 @@
 
 <div align="left">
     <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=23462539&theme=dark">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipher0xdev&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact">
 </div>
 
