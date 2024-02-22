@@ -17,35 +17,27 @@
 </div>
 
 <div align="center" > 
-  <h4> Language and technologies</h4>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=powershell&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&fill=black&textfill=gray">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=webassembly&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=blender&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=archlinux&text=false&fill=black&textfill=gray&">
+  <h3> Language and technologies</h3>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=powershell&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&fill=transparent&textfill=white">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=webassembly&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=blender&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=archlinux&text=false&fill=transparent&textfill=white&">
 </div>
 
 <div align="center" > 
-  <h4> Development systems</h4>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=black&textfill=gray&">  
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=archlinux&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=ubuntu&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=freebsd&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=windows&text=false&fill=black&textfill=gray&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=android&text=false&fill=black&textfill=gray&">
-  <br>
-  <br>
-  <br>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=cipher0xdev&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true">
+  <h3> Development systems</h3>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=transparent&textfill=white&">  
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=archlinux&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=ubuntu&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=freebsd&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=windows&text=false&fill=transparent&textfill=white&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=android&text=false&fill=transparent&textfill=white&">
 </div>
-<br>
-<br>
-<br>
 <br>
 <br>
 <div align="center">
