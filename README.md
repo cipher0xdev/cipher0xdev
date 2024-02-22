@@ -23,5 +23,5 @@
   <br>
   Monero donate wallet
   <br>
-  <code>83PS6EBVqQt1jJdxLDxuZkdCXCo2AjnVyTmKTQn723H8F44exFXKfRCMvuwti8ssdZE9TRoa8rzQ1X8SRBUNGENgQoDM96o</code>
+  <code>46qX4mcPkcNGgQPTsTJLW2fLDq7Q2YjGAZaV7P8y54Zx6RuR97TaUAHQMoJLxbHPwffi6FooCeVSiKDJQA88PHGbMWSYk5J</code>
 </p>
