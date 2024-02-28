@@ -3,7 +3,7 @@
 <div align="left">
   <img align="right" height="200em" src="logo.png"/>
   <h2 align="left">OSINT, Cyber sec, Forensics and Malware analisys</h2>
-  Software and Game developer, Pentester, Malware analyst, Reverse engineering.
+  Software developer, Pentester, Malware analyst
   <br>
   contact for development services: <a href="mailto:cipher.contact@proton.me">cipher.contact@proton.me</a>
   <br>
