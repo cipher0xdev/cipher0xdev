@@ -13,8 +13,9 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipher0xdev&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact">
 </div>
-
-<div align="center" > 
+<br>
+<br>
+<div align="left" > 
   <h3> Language and technologies</h3>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=transparent&textfill=white&">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=transparent&textfill=white&">
@@ -27,7 +28,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=archlinux&text=false&fill=transparent&textfill=white&">
 </div>
 
-<div align="center" > 
+<div align="left" > 
   <h3> Development systems</h3>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=transparent&textfill=white&">  
   <img src="https://readme-components.vercel.app/api?component=logo&logo=archlinux&text=false&fill=transparent&textfill=white&">
